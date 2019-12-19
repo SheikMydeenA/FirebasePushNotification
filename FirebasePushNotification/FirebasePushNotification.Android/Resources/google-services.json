@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "768906537781",
+    "firebase_url": "https://pushnotification-45898.firebaseio.com",
+    "project_id": "pushnotification-45898",
+    "storage_bucket": "pushnotification-45898.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768906537781:android:854160bffc8cdec332fa7c",
+        "android_client_info": {
+          "package_name": "com.sheik.firebasepushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768906537781-rlgrs7sj0uifmskuhbssno5erm48r5fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ja--baq_eeXTxmTUCJgEX70pLfsDfHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768906537781-rlgrs7sj0uifmskuhbssno5erm48r5fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
